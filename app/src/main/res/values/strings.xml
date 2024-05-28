@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">pract17</string>
+    <string name="your_login">your login</string>
+    <string name="your_password">your password</string>
+    <string name="save">Save</string>
+    <string name="load">Load</string>
+</resources>
